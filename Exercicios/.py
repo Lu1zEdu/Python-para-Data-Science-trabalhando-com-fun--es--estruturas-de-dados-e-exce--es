@@ -1,0 +1,24 @@
+for i in range (1,11):
+    print(f'exer{i}.py')
+'''
+exer1.py
+exer2.py
+exer3.py
+exer4.py
+exer5.py
+exer6.py
+exer7.py
+exer8.py
+exer9.py
+exer10.py
+exer11.py
+exer12.py
+exer13.py
+exer14.py
+exer15.py
+exer16.py
+exer17.py
+exer18.py
+exer19.py
+exer20.py
+'''
